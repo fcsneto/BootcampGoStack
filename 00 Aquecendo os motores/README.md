@@ -3,4 +3,4 @@
 ![Image of Yaktocat](img01.PNG)
 
 ## Cronograma diário
-![Image of Yaktocat](img01.PNG)
+![Image of Yaktocat](img02.PNG)
